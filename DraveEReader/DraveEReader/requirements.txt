@@ -1,0 +1,9 @@
+PyQt6
+pymupdf==1.26.7
+numpy
+pillow
+neuvoice
+onnxruntime
+soundfile
+huggingface-hub
+mobi
